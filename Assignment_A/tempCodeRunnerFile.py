@@ -1,0 +1,2 @@
+
+print(arr, type(arr))
