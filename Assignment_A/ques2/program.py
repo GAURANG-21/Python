@@ -12,6 +12,3 @@ while(True):
         break;
     else:
         print("Wrong choice entered\n")
-
-
-
